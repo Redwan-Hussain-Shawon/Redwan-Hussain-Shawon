@@ -18,7 +18,6 @@ Redwan's enthusiasm for problem-solving, collaborative spirit, and unwavering de
 
 Skills:  HTML / CSS / JS / Bootstrap / jQuery / PHP / MySQL
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about Web Development 
 
