@@ -2,13 +2,7 @@
 ### Hi there 👋, I'am Redwan Hussain Shawon
 #### Web Design and Web Developer
 
-Redwan is a talented web developer known for his exceptional skills and dedication to creating outstanding digital experiences. With a passion for crafting user-friendly, visually appealing websites, he has become a valuable asset in the ever-evolving world of web development.
-
-Redwan's journey in web development began with a strong foundation in programming languages such as HTML, CSS, JavaScript, and beyond. Over the years, he has honed his expertise in front-end and back-end development, allowing him to seamlessly merge creativity with functionality in his projects.
-
-His portfolio showcases a diverse range of projects, from responsive e-commerce sites to dynamic web applications, all characterized by his keen attention to detail and commitment to delivering projects on time and within budget. Redwan thrives on staying up-to-date with the latest industry trends and emerging technologies, ensuring that his clients receive cutting-edge solutions that leave a lasting impact.
-
-Redwan's enthusiasm for problem-solving, collaborative spirit, and unwavering dedication to excellence make him a standout web developer in the digital landscape. His clients and colleagues appreciate his technical prowess and his ability to transform ideas into immersive online experiences. In the world of web development, Redwan's work truly speaks for itself, setting him apart as a skilled and innovative professional.
+I'm a Front End Web developer who is passionate about making error- free websites with 100% client satisfaction.
 
 
 
