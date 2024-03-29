@@ -10,7 +10,7 @@ I'm a Front End Web developer who is passionate about making error- free website
 
 
 
-Skills:  HTML / CSS / JS / Bootstrap / jQuery / PHP / MySQL
+Skills:  HTML / CSS / JS / Bootstrap /Tailwind/ React / Next JS/ jQuery / PHP / MySQL
 
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about Web Development 
